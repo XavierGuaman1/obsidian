@@ -1,6 +1,6 @@
 
 
-<h1>NATIVOS DIGITALES</h1>
+<h1>NATIVOS DIGITALES Y SU IQ</h1>
 <p> los "nativos digitales" son los primeros niños que tienen un coeficiente intelectual más bajo que sus padres. Es una tendencia que se ha documentado en Noruega, Dinamarca, Finlandia, Países Bajos, Francia, etc.</p>
 *** 
 ==**¿Y qué está provocando esta disminución del coeficiente intelectual?**==
@@ -17,5 +17,10 @@ Sí, especialmente en Asia.
 Taiwán, por ejemplo, considera que el uso excesivo de pantallas es una forma de abuso infantil y ha aprobado una ley que establece fuertes multas para los padres que exponen a niños menores de 24 meses a cualquier aplicación digital y que no limitan el tiempo de pantalla de los chicos entre 2 y 18 años.
 
 En China, las autoridades han tomado medidas drásticas para regular el consumo de videojuegos por parte de menores: los niños y adolescentes ya no pueden jugar de noche (entre las 22 horas y las 8 horas) ni exceder los 90 minutos de exposición diaria durante la semana (180 minutos los fines de semana y las vacaciones escolares).
+***
+<mark> en mi opinión lo que trata este tema es que el uso de pantallas es algo malo ya que en la mayoría de las personas reducen excesivamente sus conocimientos y esto viene a ser un problema   ya que se vuelven dependientes de eso</mark>
+***
+
+
 
 
