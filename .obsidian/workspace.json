@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49081924d6bb4d60",
+            "id": "5e0c14f6b4fcdb38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTELIGENCIA ARTIFICIAL.md",
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f1488a74bcf4e9f",
+            "id": "d901fae71fe4e8cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Basico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6667de808d5db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INVESTIGACION.md",
+                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Basico.md",
+                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Basico.md",
+                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Basico.md"
+                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md"
               }
             }
           }
@@ -172,11 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f1488a74bcf4e9f",
+  "active": "d901fae71fe4e8cd",
   "lastOpenFiles": [
-    "INTELIGENCIA ARTIFICIAL.md",
-    "Python Basico.md",
-    "INVESTIGACION.md",
-    "README.md"
+    "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
+    "MATERIA/Python Basico.md",
+    "MATERIA/PRACTICA CHATGPT.md",
+    "MATERIA/Pasted image 20230726173324.png",
+    "MATERIA/Pasted image 20230726173212.png",
+    "MATERIA/Pasted image 20230726173435.png",
+    "MATERIA/INVESTIGACION.md",
+    "MATERIA/INTELIGENCIA ARTIFICIAL.md",
+    "MATERIA"
   ]
 }

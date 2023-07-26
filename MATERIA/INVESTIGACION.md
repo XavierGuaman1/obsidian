@@ -1,5 +1,4 @@
 
-
 <h1>NATIVOS DIGITALES Y SU IQ</h1>
  <p> los "nativos digitales" son los primeros niños que tienen un coeficiente intelectual más bajo que sus padres. Es una tendencia que se ha documentado en Noruega, Dinamarca, Finlandia, Países Bajos, Francia, etc.</p>
 *** 
