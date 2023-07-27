@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c0571369e04fbc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,16 +172,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d901fae71fe4e8cd",
+  "active": "2c0571369e04fbc6",
   "lastOpenFiles": [
-    "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
-    "MATERIA/Python Basico.md",
+    "MATERIA/INVESTIGACION.md",
     "MATERIA/PRACTICA CHATGPT.md",
+    "MATERIA/Python Basico.md",
+    "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
+    "Curso Básico de Nestjs.md",
+    "MATERIA/INTELIGENCIA ARTIFICIAL.md",
     "MATERIA/Pasted image 20230726173324.png",
     "MATERIA/Pasted image 20230726173212.png",
     "MATERIA/Pasted image 20230726173435.png",
-    "MATERIA/INVESTIGACION.md",
-    "MATERIA/INTELIGENCIA ARTIFICIAL.md",
     "MATERIA"
   ]
 }

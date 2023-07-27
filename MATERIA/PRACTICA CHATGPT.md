@@ -1,6 +1,6 @@
  <h1> Bienvenidos </h1>
  😍😍
-**You:**
+**You:**+
 
 8 tipos de datos de javascript con explicacion y  con ejemplos de cada uno 
 
