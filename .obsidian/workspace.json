@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md",
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIA/INTELIGENCIA ARTIFICIAL.md"
+                "file": "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md"
               }
             }
           }
@@ -174,15 +174,22 @@
   },
   "active": "2c0571369e04fbc6",
   "lastOpenFiles": [
-    "MATERIA/INVESTIGACION.md",
-    "MATERIA/PRACTICA CHATGPT.md",
     "MATERIA/Python Basico.md",
-    "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
+    "MATERIA/INVESTIGACION.md",
+    "Pasted image 20230727112229.png",
+    "MATERIA/PRACTICA CHATGPT.md",
+    "Pasted image 20230727111921.png",
     "Curso Básico de Nestjs.md",
+    "Pasted image 20230727111718.png",
+    "Pasted image 20230727111602.png",
     "MATERIA/INTELIGENCIA ARTIFICIAL.md",
+    "Pasted image 20230727111502.png",
+    "Pasted image 20230727111428.png",
+    "Pasted image 20230727111233.png",
+    "Pasted image 20230727111127.png",
+    "MATERIA/Python For Data Science Pandas Basics Cheat Sheet.md",
     "MATERIA/Pasted image 20230726173324.png",
     "MATERIA/Pasted image 20230726173212.png",
-    "MATERIA/Pasted image 20230726173435.png",
     "MATERIA"
   ]
 }

@@ -21,7 +21,5 @@ Reglas relevantes: **"nada de pantallas por la mañana antes de ir a la escuela,
 ***
 <mark> en mi opinión lo que trata este tema es que el uso de pantallas es algo malo ya que en la mayoría de las personas reducen excesivamente sus conocimientos y esto viene a ser un problema   ya que se vuelven dependientes de eso</mark>
 ***
-
-
-
+![[Pasted image 20230727112229.png]]
 

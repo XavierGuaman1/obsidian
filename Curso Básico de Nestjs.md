@@ -29,3 +29,6 @@ Los controladores son los encargados de escuchar la solicitud y emitir una respu
 - Post
 - Patch
 - Delete
+***
+
+![[Pasted image 20230727111718.png]]
